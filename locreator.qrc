@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file>es.qm</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="output.png">icons/output.png</file>
+        <file alias="input.png">icons/input.png</file>
+        <file alias="unknown.png">icons/unknown.png</file>
+        <file alias="folder.png">icons/folder.png</file>
+        <file alias="solution.png">icons/solution.png</file>
+        <file alias="webcontent.png">icons/webcontent.png</file>
+        <file alias="filehtml.png">icons/filehtml.png</file>
+        <file alias="fileimage.png">icons/fileimage.png</file>
+        <file alias="filetext.png">icons/filetext.png</file>
+        <file alias="evalmodel.png">icons/evalmodel.png</file>
+        <file alias="listadd.png">icons/listadd.png</file>
+        <file alias="listremove.png">icons/listremove.png</file>
+    </qresource>
+    <qresource prefix="/flags">
+        <file alias="es">flags/es.png</file>
+        <file alias="en">flags/gb.png</file>
+        <file alias="pt">flags/pt.png</file>
+        <file alias="x-none">flags/x-none.png</file>
+    </qresource>
+    <qresource prefix="/xml">
+        <file alias="ejmd_v1.xsd">xml/ejmd_v1.xsd</file>
+        <file alias="imscp_v1p1.xsd">xml/imscp_v1p1.xsd</file>
+        <file alias="imsmd_v1p2p4.xsd">xml/imsmd_v1p2p4.xsd</file>
+    </qresource>
+</RCC>
